@@ -20,7 +20,6 @@ I enjoy developing video games, solving technical challenges and learning new wa
 
 ## 📫 Contact
 
-- 💻 GitHub: [@STiCh2104](https://github.com/STiCh2104)
 - 📧 Email: ting.chen.dev@gmail.com
 - 🎮 itch.io: [STiCh214](https://stich214.itch.io/)
 
